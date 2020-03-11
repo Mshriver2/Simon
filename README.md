@@ -1,5 +1,5 @@
-# Simon Game PHP
-A replica of the classic Simon game implemented in PHP.
+# Simon Game JS
+A replica of the classic Simon game implemented in Javascript.
 
 ## Getting Started
 Load index.php into a webserver, load the page, play the game!
@@ -13,5 +13,6 @@ git clone https://github.com/sd31117/Simon.git
 cd Simon/
 ```
 ## TODO
-* Find a way to record button presses
-* Create function to randomize the button colors, while storing the correct order
+* ~~Find a way to record button presses~
+* Fix colorFlasher function so that the button divs display an animation in the generated order
+* Add a play again button and show final score when player makes an incorrect guess.
